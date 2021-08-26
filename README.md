@@ -1,7 +1,7 @@
 # Loader
 This respository is about implimentation of Loader using HTML and CSS.
 
-🎉In this project i used several awesome Css prperties:-
+🎉In this project i used several awesome Css properties :-
 
 1.keyframes:-When you specify CSS styles inside the @keyframes rule, the animation will gradually change from the current style to the new style at certain times.
 To get an animation to work, you must bind the animation to an element.
